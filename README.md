@@ -2,7 +2,7 @@
 Hi im known. I love coding and mainly work in lua, html, js and css.
 
 <div align="left">
-        <a href="https://ko-fi.com/thelindat"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=known-001&layout=compact&theme=react&hide_border=true&show_icons=true"/></a>
+        <a href="https://ko-fi.com/harveyx"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=known-001&layout=compact&theme=react&hide_border=true&show_icons=true"/></a>
 </div>
 
 ## Community
